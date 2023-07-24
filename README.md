@@ -1,6 +1,6 @@
-### Hi there 👋
-## Hi! I'm SolarSwamp
+## Hi! I'm SolarSwamp👋
 ==========
+
 ![SolarSwamp's github stats](https://github-readme-stats.vercel.app/api?username=SolarSwamp&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SolarSwamp&langs_count=1&theme=dark)
 
